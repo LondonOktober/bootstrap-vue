@@ -94,7 +94,7 @@
     "clean-css-cli": "^4.3.0",
     "codecov": "^3.5.0",
     "codemirror": "^5.46.0",
-    "codesandbox": "^2.1.5",
+    "codesandbox": "^2.1.6",
     "cross-env": "^5.2.0",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.3.0",
